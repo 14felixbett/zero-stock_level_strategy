@@ -1,7 +1,5 @@
-# FELIX KIPRONO BETT
-# felix.bett@azubiafrica.org
-
 # SIMULATE A SALES AND OPERATIONS PLANNING USING THE ZER0-STOCK LEVEL STRATEGY.
+
 print()
 print('HERE IS A SIMULATION OF SALES AND OPERATIONS PLANNING USING THE ZERO-STOCK LEVEL STRATEGY. \n___________________________________________________________________________________________ \n')
 
